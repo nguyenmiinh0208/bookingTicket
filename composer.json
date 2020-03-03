@@ -1,0 +1,13 @@
+{
+    "name": "booking/api",
+    "description": "bookingTicketAPI",
+    "authors": [
+        {
+            "name": "nguyenmiinh0208",
+            "email": "nguyenminhnh0208@gmail.com"
+        }
+    ],
+    "require": {
+        "analog/analog": "^1.0"
+    }
+}
